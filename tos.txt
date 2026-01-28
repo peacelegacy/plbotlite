@@ -1,0 +1,23 @@
+1. Acceptance of Terms
+By interacting with PL Bot Lite, you agree to comply with these Terms of Service and all applicable laws. If you do not agree, do not use the bot.
+
+2. Bot Usage
+PL Bot Lite is intended for entertainment, utility, and moderation purposes on Discord servers.
+You are responsible for all actions taken while using the bot.
+Do not use the bot to harass, spam, or violate Discord’s Terms of Service.
+
+3. Restrictions
+
+You may not:
+Exploit or reverse-engineer the bot.
+Use the bot to collect personal information of others without consent.
+Use the bot to send malicious content (viruses, malware, phishing links).
+
+4. Intellectual Property
+All commands, code, and content provided by [Your Bot Name] are the property of the bot owner. You may not copy or redistribute the bot without permission.
+
+5. Privacy
+Your privacy is important. Data collected by the bot is handled according to our Privacy Policy.
+
+6. Modifications
+We may update the bot or these Terms of Service at any time. Users are encouraged to review them regularly.
