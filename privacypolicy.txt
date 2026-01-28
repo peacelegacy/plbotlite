@@ -1,0 +1,31 @@
+1. Information We Collect
+The bot may collect:
+Discord ID and username – required to identify users for commands or data storage.
+Command usage data – for functionality and troubleshooting.
+
+We do not sell, rent, or share your data with third parties.
+
+2. How We Use Your Data
+Data is used to:
+Provide and improve the bot’s features.
+Track command usage and settings per server/user.
+Debug errors or issues with the bot.
+
+3. Data Retention
+User data is stored only as long as necessary for bot functionality. You can request deletion at any time by contacting the bot owner.
+
+4. Third-Party Services
+If the bot uses third-party services (e.g., hosting, analytics), your data may be processed according to their privacy policies. We ensure that such services respect privacy standards.
+
+5. Your Rights
+You can request access, correction, or deletion of your data.
+You can stop using the bot at any time, which ends data collection.
+
+6. Security
+We implement reasonable security measures to protect your data. However, no system is completely secure.
+
+7. Changes to This Policy
+This Privacy Policy may be updated. Users are encouraged to review it regularly.
+
+8. Contact
+For questions about this policy or your data, contact: thetalkingcat8089
